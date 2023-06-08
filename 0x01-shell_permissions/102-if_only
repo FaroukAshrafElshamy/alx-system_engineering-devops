@@ -1,2 +1,2 @@
 #!/bin/bash
-chomd --from=betty guillaume 
+chomd --from=guillaume betty hello
