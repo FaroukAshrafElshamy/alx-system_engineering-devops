@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# displey Best School using while loop
+
+index=0
+
+while [ $index -lt 10 ]
+do
+  echo "Best School"
+  ((index++))
+done
