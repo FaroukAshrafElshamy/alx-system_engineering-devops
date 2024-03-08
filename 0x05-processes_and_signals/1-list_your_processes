@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # Display a list of rnning processes
 
-ps auxf
+ps -auxf
