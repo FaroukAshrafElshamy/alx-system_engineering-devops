@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#trap: The command used to catch signals and execute a specified action when those signals are received.
+
+while :
+do
+    echo "To infinity and beyond"
+    sleep 2
+    trap 'echo "I am invincible!!!"' SIGTERM
+done 
