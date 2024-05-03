@@ -1,0 +1,3 @@
+# Puppit
+
+## Configuration management
